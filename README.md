@@ -3,7 +3,7 @@
 # Demo 📸
 
 <div align="center">
-  <h1 align="left">💻Desktop Version</h1>
+  <h1 align="center">💻Desktop Version</h1>
   <img src="./github/campiodesktop.png"/>
   
   <h1>📱Mobile Version</h1>
