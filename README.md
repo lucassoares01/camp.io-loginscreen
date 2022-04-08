@@ -1,7 +1,5 @@
 # Camp.in Login Screen
 
-# Demo 📸
-
 <div align="center">
   <h1 align="center">💻Desktop Version</h1>
   <img src="./github/campiodesktop.png"/>
